@@ -1,0 +1,50 @@
+[
+    {"text": "A level lot with RV Parking", "label": "pos"},
+    {"text": "rear exposed aggregate patio & backing to the trail", "label": "pos"},
+    {"text": "offered at Public Auction", "label": "neg"},
+    {"text": "NO immediate rear neighbor", "label": "pos"},
+    {"text": "Has both a LR & FR", "label": "pos"},
+    {"text": "upcoming auction", "label": "neg"},
+    {"text": "fireplace w/brick", "label": "pos"},
+    {"text": "2 car garage w/interior access", "label": "pos"},
+    {"text": "dual pane windows", "label": "pos"},
+    {"text": "High-Ceiling", "label": "pos"},
+    {"text": "Elevator in building", "label": "pos"},
+    {"text": "Huge communal grass backyard", "label": "pos"},
+    {"text": "on-site laundry", "label": "pos"},
+    {"text": "big windows", "label": "pos"},
+    {"text": "new flooring", "label": "pos"},
+    {"text": "freshly painted", "label": "pos"},
+    {"text": "renovated", "label": "pos"},
+    {"text": "granite counters", "label": "pos"},
+    {"text": "stainless appliance", "label": "pos"},
+    {"text": "stainless steel appliances", "label": "pos"},
+    {"text": "hardwood cabinets", "label": "pos"},
+    {"text": "Unit needs TLC", "label": "neg"},
+    {"text": "full modern bath", "label": "pos"},
+    {"text": "marble finishes", "label": "pos"},
+    {"text": "large soaking tub", "label": "pos"},
+    {"text": "finished basement", "label": "pos"},
+    {"text": "Property sold strickly AS IS", "label": "neg"},
+    {"text": "washer/dryer", "label": "pos"},
+    {"text": "w/d in unit", "label": "pos"},
+    {"text": "laundry facility", "label": "pos"},
+    {"text": "Huge lot", "label": "pos"},
+    {"text": "Hardwood floors", "label": "pos"},
+    {"text": "large yard", "label": "pos"},
+    {"text": "The Seller makes no representations, warranties nor any repairs", "label": "neg"},
+    {"text": "easy access to highways and airport", "label": "pos"},
+    {"text": "driveway and garaged parking", "label": "pos"},
+    {"text": "close to public transportation, schools, and major highways", "label": "pos"},
+    {"text": "open concept kitchen", "label": "pos"},
+    {"text": "Tiled bathroom and kitchen", "label": "pos"},
+    {"text": "being sold as-is", "label": "pos"},
+    {"text": "move in condition", "label": "pos"}
+
+]
+
+
+
+
+
+
